@@ -30,7 +30,7 @@ Libraries/Tools: OpenCV, Pandas, Plotly
 
 Clone the Repository
 
-git clone https://github.com/username/SCADA-Map-Project.git
+git clone https://github.com/zyzen07/SCADA-MAP-01.git
 cd SCADA-Map-Project
 
 Create a Virtual Environment
